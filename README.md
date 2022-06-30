@@ -1,7 +1,7 @@
 ## This is the anonymous version of our model TopicVAE.
-# -checkpoints
+# checkpoints
 This folder contains the trained model of TopicVAE and TopicDAE on Industrial dataset.
-# -data
+# data
 This folder contains several files of Industrial dataset for training.
 # Run
 1. TopicDAE.
