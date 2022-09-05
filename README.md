@@ -1,4 +1,7 @@
 ## This is the Pytorch implementation for our ACM MM 2022 paper:
+'''
+Zhiqiang Guo, Guohui Li, Jianjun Li, Huaicong Chen. TopicVAE: Topic-aware Disentanglement Representation Learning for Enhanced Recommendation. MM 2022. 
+'''
 
 # checkpoints
 This folder contains the trained model of TopicVAE and TopicDAE on Industrial dataset.
