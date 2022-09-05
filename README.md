@@ -1,4 +1,5 @@
-## This is the version of our model TopicVAE.
+## This is the Pytorch implementation for our ACM MM 2022 paper:
+
 # checkpoints
 This folder contains the trained model of TopicVAE and TopicDAE on Industrial dataset.
 # data
