@@ -3,7 +3,7 @@ This is the Tensorflow  implementation for our ACM MM 2022 paper:
 >Zhiqiang Guo, Guohui Li, Jianjun Li, Huaicong Chen. TopicVAE: Topic-aware Disentanglement Representation Learning for Enhanced Recommendation. In MM 2022. [Paper](#)
 
 ### Introduction
-In this work, we propose a novel **Topic-aware Disentangled Variational AutoEncoder (TopicVAE)** to disentangle and infer representations of users and items from content information for enhanced recommendation. As shown in the framework, TopicVAE mainly contains four modules: attention-based topic extraction (ATE), topic-level variational autoencoder (TVAE), topic-guided contrastive loss(TCL) and heuristic regularization (HREG).
+In this work, we propose a novel **Topic-aware Disentangled Variational AutoEncoder (TopicVAE)** to disentangle and infer representations of users and items from content information for enhanced recommendation. As shown in the framework, TopicVAE mainly contains four modules: attention-based topic extraction (*ATE*), topic-level variational autoencoder (*TVAE*), topic-guided contrastive loss (*TCL*) and heuristic regularization (*HREG*).
 
 ![Framework of TopiVAE](framework.jpg)
 
