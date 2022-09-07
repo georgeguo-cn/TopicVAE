@@ -25,3 +25,6 @@ or retrain TopicVAE/TopicDAE by:
 python TopicVAE.py --data=data/fasttext/Industrial --mode=trn
 python TopicDAE.py --data=data/fasttext/Industrial --mode=trn
 ```
+You also can set different parameters to train this model.
+
+
