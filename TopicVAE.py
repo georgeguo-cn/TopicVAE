@@ -1,4 +1,13 @@
 #!/usr/bin/env python3
+"""
+
+Created on April 18, 2022
+Implementation of TopicVAE in
+Zhiqiang Guo et al.  TopicVAE: Topic-aware Disentanglement Representation Learning for Enhanced Recommendation
+
+@author: Zhiqiang Guo (zhiqiangguo@hust.edu.cn)
+
+"""
 
 from __future__ import division
 from __future__ import print_function
