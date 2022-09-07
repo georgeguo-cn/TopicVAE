@@ -13,7 +13,7 @@ Then you can run process_fasttext.py to get the final processed datasets.
 ```
 python process_fasttext.py --data=data/Industrial.json
 ```
-Note: other word vertor models can also be used to process the dataset, such as *Word2Vec*, *GloVe*. 
+*NOTE*: other word vertor models can also be used to process the dataset, such as *Word2Vec*, *GloVe*. 
 ### Run
 After processing the datasets, you can test TopicVAE/TopicDAE on Industrial dataset by:
 ```
