@@ -2,9 +2,8 @@
 This is the Tensorflow  implementation for our ACM MM 2022 paper:
 >Zhiqiang Guo, Guohui Li, Jianjun Li, Huaicong Chen. TopicVAE: Topic-aware Disentanglement Representation Learning for Enhanced Recommendation. In MM 2022. [Paper](#)
 
-### Introduction
-
 ### Environment
+pip install -r requirements.txt
 
 ### Data processing
 
