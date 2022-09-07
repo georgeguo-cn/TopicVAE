@@ -19,9 +19,9 @@ After processing the datasets, you can test TopicVAE/TopicDAE on Industrial data
 ```
 python TopicVAE.py --data=data/fasttext/Industrial --mode=tst
 python TopicDAE.py --data=data/fasttext/Industrial --mode=tst
-'''
+```
 or retrain TopicVAE/TopicDAE by:
-'''
+```
 python TopicVAE.py --data=data/fasttext/Industrial --mode=trn
 python TopicDAE.py --data=data/fasttext/Industrial --mode=trn
-'''
+```
